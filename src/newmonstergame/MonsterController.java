@@ -47,7 +47,7 @@ public class MonsterController {
 	}
 
 	private void showMenu() {
-		System.out.println("=== モンスター図鑑  ===");
+		System.out.println("=== モンスター図鑑   ver1.1 ===");
 		System.out.println();
 		System.out.println("1.モンスター登録");
 		System.out.println("2.モンスター一覧");
